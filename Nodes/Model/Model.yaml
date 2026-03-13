@@ -1,0 +1,6 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: ColorValue
+  Type: BaseDataVariableType
+  DataType: Int32
